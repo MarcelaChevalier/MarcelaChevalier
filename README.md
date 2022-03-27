@@ -4,9 +4,9 @@ Me chamo Marcela Chevalier
 
 Criadora de Contéudo do mundo dos games + Game Design
 
-Que resolveu migrar de área buscando ser uma desenvovedora Fullstack.
+Que resolveu migrar de área buscando ser uma desenvovedora backend.
 
-Formada em Jogos Digitais - Cursando Sistemas para internet.
+Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistemas
 
 
 <div>  
@@ -35,10 +35,11 @@ Formada em Jogos Digitais - Cursando Sistemas para internet.
   
  📚 Ferramentas que estou começando a aprender
  
-  ![py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![rea](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  
+  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
  
  
  

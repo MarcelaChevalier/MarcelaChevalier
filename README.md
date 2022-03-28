@@ -11,11 +11,9 @@ Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistem
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaChevalier&show_icons=true&theme=synthwave"/><br>
-  
-  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachevalier&layout=compact&theme=synthwave"/>
-</div>
+  </div>
+
+
   
   ❤️ Vamos entrar em contato!
   
@@ -28,7 +26,7 @@ Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistem
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kristykill)
 
   
-  🔨 Ferramentas que tenho conhecimento 
+  🔨 Linguagens e Ferramentas que tenho conhecimento 
   
   ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -43,6 +41,9 @@ Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistem
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  
+  
+  <div> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachevalier&layout=compact&theme=tokyonight"/> </div>
  
  
  

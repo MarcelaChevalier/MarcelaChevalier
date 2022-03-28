@@ -10,7 +10,7 @@ Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistem
 
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaChevalier&show_icons=true&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaChevalier&show_icons=true&theme=synthwave"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachevalier&layout=compact&theme=synthwave"/>
 </div>
   

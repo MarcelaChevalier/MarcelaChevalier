@@ -1,13 +1,13 @@
 Hi 🐾
 
-Me chamo Marcela Chevalier
+Sou uma pessoa que sempre busca estar por dentro das novidades sobre o mundo da tecnologia. 
+Apaixonada por games, livros e idiomas diferentes.
+Gosto muito de ensinar e aprender.
+Aos 27 anos me descobri autista assim aceitando que vejo o mundo de uma outra forma, sempre superando as barreiras e dificuldades do dia-a-dia através da inclusão e adaptação.
+Atualmente estou entrando na área de SRE/DEVOPS, sintam-se a vontade para se conectar comigo e começar essa trilha de crescimento e conhecimento ao meu lado.
 
-Criadora de Contéudo do mundo dos games + Game Design
 
-Que resolveu migrar de área buscando ser uma desenvovedora backend.
-
-Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistemas
-
+Todos meus certificados: diminua.me/CertificadosMarcela
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaChevalier&show_icons=true&theme=synthwave"/><br>
@@ -34,13 +34,17 @@ Formada em Jogos Digitais - Cursando Sistemas para internet e Analises de Sistem
   ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
   
- 📚 Ferramentas que estou começando a aprender
+ 📚 Ferramentas que estou trabalhando no momento:
  
- 
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  
+  
+  Tenho conhecimento também : AWS, TERRAFORM, LINUX, FLASK, GRAFANA, ZABBIX, KANBAN, SCRUM, CRUD.
+  
+ 
+  
+  
   
   
   <div> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelachevalier&layout=compact&theme=tokyonight"/> </div>
